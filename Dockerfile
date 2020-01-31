@@ -1,4 +1,4 @@
-FROM haproxy:1.9-alpine
+FROM haproxy:2.1-alpine
 
 EXPOSE 2375
 
