@@ -1,10 +1,5 @@
 # Docker Socket Proxy
 
-[![](https://images.microbadger.com/badges/version/tecnativa/docker-socket-proxy:latest.svg)](https://microbadger.com/images/tecnativa/docker-socket-proxy:latest "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/image/tecnativa/docker-socket-proxy:latest.svg)](https://microbadger.com/images/tecnativa/docker-socket-proxy:latest "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/commit/tecnativa/docker-socket-proxy:latest.svg)](https://microbadger.com/images/tecnativa/docker-socket-proxy:latest "Get your own commit badge on microbadger.com")
-[![](https://images.microbadger.com/badges/license/tecnativa/docker-socket-proxy.svg)](https://microbadger.com/images/tecnativa/docker-socket-proxy "Get your own license badge on microbadger.com")
-
 ## What?
 
 This is a security-enhanced proxy for the Docker Socket.
@@ -154,11 +149,3 @@ You can set the logging level or severity level of the messages to be logged wit
 - [1.29](https://docs.docker.com/engine/api/v1.29/)
 - [1.30](https://docs.docker.com/engine/api/v1.30/)
 - [1.37](https://docs.docker.com/engine/api/v1.37/)
-
-## Feedback
-
-Please send any feedback (issues, questions) to the [issue tracker][].
-
-[Alpine]: https://alpinelinux.org/
-[HAProxy]: http://www.haproxy.org/
-[issue tracker]: https://github.com/Tecnativa/docker-socket-proxy/issues
