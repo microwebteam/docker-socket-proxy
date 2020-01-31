@@ -1,5 +1,9 @@
 # Docker Socket Proxy
 
+## Versions
+
+* `2.0` – Current version
+
 ## What?
 
 This is a security-enhanced proxy for the Docker Socket.
